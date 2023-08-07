@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm DUDUKA VENKAT SAI</h1>
+<div style="background-color:black">
+  
+</div><h1 align="center">Hi 👋, I'm DUDUKA VENKAT SAI</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -22,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai2963&show_icons=true&locale=en" alt="sai2963" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai2963&" alt="sai2963" /></p>
+</div>
