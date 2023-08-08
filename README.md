@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Travel India](https://64cbc7fa462f6f0ea56fb36f--inquisitive-chebakia-25108a.netlify.app/travel%20page/index1)
 
-- 📫 How to reach me **venkatsai0629@gmail.com**
+-  How to reach me **venkatsai0629@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
