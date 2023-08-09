@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai2963&label=Profile%20views&color=0e75b6&style=flat" alt="sai2963" /> </p>
 
-- 🔭 I’m currently working on [Travel India](https://64cbc7fa462f6f0ea56fb36f--inquisitive-chebakia-25108a.netlify.app/travel%20page/index1)
+
 
 -  How to reach me **venkatsai0629@gmail.com**
 
