@@ -20,7 +20,7 @@
 
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,c,java,python,bootstrap,git,github,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h1>  📈 Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai2963&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&layout=compact" alt="sai2963"&theme=github /></p>
