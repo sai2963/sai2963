@@ -1,4 +1,4 @@
-
+1
   
 <h1 align="center">Hi 👋 I'm DUDUKA VENKAT SAI</h1>
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/duduka venkat sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duduka venkat sai" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/9RPeJfcW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9RPeJfcW" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sai2963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai2963" height="30" width="40" /></a>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai2963&theme=github">
 
