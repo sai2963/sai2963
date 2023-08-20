@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai2963&label=Profile%20views&color=0e75b6&style=flat" alt="sai2963" /> </p>
 
 
 
@@ -15,7 +14,7 @@
 <p align="center">
  
  
-<a href='https://www.linkedin.com/in/duduka-venkat-sai-182a71267' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/DUDUKA_VENKAT SAI-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D6ED7&color=0D84D3'/></a> <br><a href='' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/venkatsai0629@gmail.com-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=E72907&color=D44A2C'/></a><br><a href='.dvsai' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DVSai-100000?style=for-the-badge&logo=discord&logoColor=white&labelColor=094CE7&color=1548B0'/></a><br><p align="left"> <img src="https://komarev.com/ghpvc/?username=sai2963&label=Profile%20views&color=0e75b6&style=flat" alt="sai2963" /> </p>
+<a href='https://www.linkedin.com/in/duduka-venkat-sai-182a71267' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/DUDUKA_VENKAT SAI-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D6ED7&color=0D84D3'/></a> <br><a href='' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/venkatsai0629@gmail.com-100000?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=E72907&color=D44A2C'/></a><br><a href='.dvsai' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DVSai-100000?style=for-the-badge&logo=discord&logoColor=white&labelColor=094CE7&color=1548B0'/></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=sai2963&label=Profile%20views&color=0e75b6&style=flat" alt="sai2963" /> </p>
 
 
 </p>
