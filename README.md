@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai2963&show_icons=true&theme=dark#gh-dark-mode-only&locale=en&layout=compact" alt="sai2963"&theme=github /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai2963&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="sai2963" /></p>
+<p style="width:100%"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai2963&show_icons=true&theme=dark#gh-dark-mode-only&locale=en" alt="sai2963" /></p>
 
 <center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai2963&&theme=dark#gh-dark-mode-only" alt="sai2963" /></p></center>
 <h1> 🏆 GitHub Trophies</h1>
