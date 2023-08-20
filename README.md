@@ -15,7 +15,7 @@
 <p align="center">
  
  
-[![Linkedin Badge](https://img.shields.io/badge/-Duduka%20Venkat%20Sai%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/bharath-bandi/](https://www.linkedin.com/in/duduka-venkat-sai-182a71267))](https://www.linkedin.com/in/bharath-bandi/)  &nbsp;[![outlook Badge](https://img.shields.io/badge/-venkatsai2963@outlook.com-c14438?style=flat-square&logo=outlook&logoColor=white&link=mailto:venkatsai2963@outlook.cpm)](venkatsai2963@outlook.com) 
+<a href='https://www.linkedin.com/in/duduka-venkat-sai-182a71267' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/DUDUKA_VENKAT SAI-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D6ED7&color=0D84D3'/></a> &nbsp;[![outlook Badge](https://img.shields.io/badge/-venkatsai2963@outlook.com-c14438?style=flat-square&logo=outlook&logoColor=white&link=mailto:venkatsai2963@outlook.cpm)](venkatsai2963@outlook.com) 
 
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai2963&theme=github">
