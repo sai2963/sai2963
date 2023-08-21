@@ -8,7 +8,7 @@
 
 
 
--  How to reach me **venkatsai0629@gmail.com**
+-  How to reach me **venkatsai2963@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
