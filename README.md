@@ -30,9 +30,9 @@
 <h1>  📈 Stats</h1>
 
 
-<p><img width="53%" src="https://github-readme-stats.vercel.app/api?username=sai2963&show_icons=true&theme=dark#gh-dark-mode-only" /></p>
+<p><img width="100%" src="https://github-readme-stats.vercel.app/api?username=sai2963&show_icons=true&theme=dark#gh-dark-mode-only" /></p>
 
-<p > <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai2963&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" /></p>
+<p > <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai2963&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only" /></p>
 
 <center><p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sai2963&&theme=dark#gh-dark-mode-only" alt="sai2963" /></p></center>
 <h1> 🏆 GitHub Trophies</h1>
