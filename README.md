@@ -24,8 +24,7 @@
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,c,selenium,vscode,linux,bootstrap,java,python,html,css,javascript,nodejs,expressjs
-      " />
+    <img src="https://skillicons.dev/icons?i=git,github,mysql,c,selenium,vscode,linux,bootstrap,java,python,html,css,javascript,nodejs,expressjs" />
   </a>
 </p>
 <h1>  📈 Stats</h1>
