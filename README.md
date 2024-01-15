@@ -2,7 +2,7 @@
   
 <h1 align="center">Hi 👋 I'm DUDUKA VENKAT SAI</h1>
 
-<h3>Enthusiastic and detail-oriented student proficient in Full Stack Web Development utilizing JavaScript, along with a comprehensive understanding of Software Testing and Automation Testing using Selenium. Experienced in creating dynamic and responsive web applications, I am skilled in both front-end and back-end development, with a strong emphasis on user experience and functionality. With a passion for delivering high-quality, bug-free software, I excel in implementing robust testing strategies and frameworks, ensuring the seamless performance of web applications. I am eager to leverage my technical skills and contribute to innovative projects in the field of web development and software engineering</h3>
+<p style="font-family: sans-serif;" >Enthusiastic and detail-oriented student proficient in Full Stack Web Development utilizing JavaScript, along with a comprehensive understanding of Software Testing and Automation Testing using Selenium. Experienced in creating dynamic and responsive web applications, I am skilled in both front-end and back-end development, with a strong emphasis on user experience and functionality. With a passion for delivering high-quality, bug-free software, I excel in implementing robust testing strategies and frameworks, ensuring the seamless performance of web applications. I am eager to leverage my technical skills and contribute to innovative projects in the field of web development and software engineering</p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
