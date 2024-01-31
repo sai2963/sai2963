@@ -21,12 +21,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai2963&theme=github">
 
 
-<h3 align="left"> 🧰 Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,c,selenium,vscode,linux,bootstrap,java,python,html,css,javascript,nodejs,expressjs,postman,mongodb" />
-  </a>
-</p>
+## 🧰 Languages and Tools
+
+
+<div style="text-align: center; margin: 20px">
+
+[![My Skills](https://skillicons.dev/icons?i=**git,github,mysql,c,selenium,vscode,linux,bootstrap,java,python,html,css,javascript,nodejs,expressjs,postman,mongodb**&perline=7)](https://skillicons.dev)
+
+</div>
+
 <h1>  📈 Stats</h1>
 
 
