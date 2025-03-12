@@ -26,7 +26,7 @@
 
 <div style="text-align: center; margin: 20px">
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,c,selenium,vscode,linux,bootstrap,java,python,html,css,javascript,nodejs,expressjs,postman,tailwind,mongodb,babel,react,nextjs,firebase,vite,fastapi,neon&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,mysql,c,selenium,vscode,linux,bootstrap,java,python,html,css,javascript,nodejs,expressjs,postman,tailwind,mongodb,babel,react,nextjs,firebase,vite,fastapi,c#&perline=7)](https://skillicons.dev)
 
 </div>
 <hr></hr>
